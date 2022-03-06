@@ -16,3 +16,13 @@ C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\FizzBuzz\FizzBuzz\obj\Debug\net
 C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\FizzBuzz\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.csproj.CoreCompileInputs.cache
 C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\FizzBuzz\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.dll
 C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\FizzBuzz\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.pdb
+C:\QuarkAcademyRepos\KataFizzBuzzElian\FizzBuzz\bin\Debug\netstandard2.0\FizzBuzz.deps.json
+C:\QuarkAcademyRepos\KataFizzBuzzElian\FizzBuzz\bin\Debug\netstandard2.0\FizzBuzz.dll
+C:\QuarkAcademyRepos\KataFizzBuzzElian\FizzBuzz\bin\Debug\netstandard2.0\FizzBuzz.pdb
+C:\QuarkAcademyRepos\KataFizzBuzzElian\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\QuarkAcademyRepos\KataFizzBuzzElian\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\QuarkAcademyRepos\KataFizzBuzzElian\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\QuarkAcademyRepos\KataFizzBuzzElian\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.AssemblyInfo.cs
+C:\QuarkAcademyRepos\KataFizzBuzzElian\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\QuarkAcademyRepos\KataFizzBuzzElian\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.dll
+C:\QuarkAcademyRepos\KataFizzBuzzElian\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.pdb

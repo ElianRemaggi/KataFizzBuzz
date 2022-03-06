@@ -4644,19 +4644,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Coding\\.nuget\\packages\\": {}
+    "C:\\Users\\luism\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\TestFizzBuzz\\TestFizzBuzz.csproj",
+      "projectUniqueName": "C:\\QuarkAcademyRepos\\KataFizzBuzzElian\\TestFizzBuzz\\TestFizzBuzz.csproj",
       "projectName": "TestFizzBuzz",
-      "projectPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\TestFizzBuzz\\TestFizzBuzz.csproj",
-      "packagesPath": "C:\\Users\\Coding\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\TestFizzBuzz\\obj\\",
+      "projectPath": "C:\\QuarkAcademyRepos\\KataFizzBuzzElian\\TestFizzBuzz\\TestFizzBuzz.csproj",
+      "packagesPath": "C:\\Users\\luism\\.nuget\\packages\\",
+      "outputPath": "C:\\QuarkAcademyRepos\\KataFizzBuzzElian\\TestFizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Coding\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luism\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4668,9 +4668,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {
-              "projectPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj"
+            "C:\\QuarkAcademyRepos\\KataFizzBuzzElian\\FizzBuzz\\FizzBuzz.csproj": {
+              "projectPath": "C:\\QuarkAcademyRepos\\KataFizzBuzzElian\\FizzBuzz\\FizzBuzz.csproj"
             }
           }
         }
@@ -4683,6 +4684,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -4712,7 +4714,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

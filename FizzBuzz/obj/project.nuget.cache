@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZY+aaeEqJ2xqbNqLgoOcPtBmWpqnFl2vlqspE+i6R3hEpHywX+DSIfj0XvwdNSyM+tcxAgIrNCGIY8fQm0ixPA==",
+  "dgSpecHash": "tbLiidY3wYJUsBj+sRMkJ4skOzZuLzQrRlELAC/4I70LfZhUno5fJvQhPgxZB9MmIiBNWpYcU6zOh1e4AwEKQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+  "projectFilePath": "C:\\QuarkAcademyRepos\\KataFizzBuzzElian\\FizzBuzz\\FizzBuzz.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Coding\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Coding\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\luism\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\luism\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
