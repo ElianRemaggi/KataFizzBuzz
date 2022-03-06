@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\BibliotecaDeClase\\BibliotecaDeClase.csproj",
-      "projectName": "BibliotecaDeClase",
-      "projectPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\BibliotecaDeClase\\BibliotecaDeClase.csproj",
+      "projectUniqueName": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\BibliotecaDeClase\\FizzBuzz.csproj",
+      "projectName": "FizzBuzz",
+      "projectPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\BibliotecaDeClase\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\Coding\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\BibliotecaDeClase\\obj\\",
       "projectStyle": "PackageReference",

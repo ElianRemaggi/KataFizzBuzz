@@ -90,9 +90,9 @@ C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\
 C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\bin\Debug\netcoreapp3.1\BibliotecaDeClase.dll
-C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\bin\Debug\netcoreapp3.1\BibliotecaDeClase.pdb
 C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\obj\Debug\netcoreapp3.1\TestFizzBuzz.csproj.CopyComplete
 C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\obj\Debug\netcoreapp3.1\TestFizzBuzz.dll
 C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\obj\Debug\netcoreapp3.1\TestFizzBuzz.pdb
 C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\obj\Debug\netcoreapp3.1\TestFizzBuzz.genruntimeconfig.cache
+C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\TestFizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb

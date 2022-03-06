@@ -1226,14 +1226,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "BibliotecaDeClase/1.0.0": {
+      "FizzBuzz/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/BibliotecaDeClase.dll": {}
+          "bin/placeholder/FizzBuzz.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BibliotecaDeClase.dll": {}
+          "bin/placeholder/FizzBuzz.dll": {}
         }
       }
     }
@@ -4629,15 +4629,15 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "BibliotecaDeClase/1.0.0": {
+    "FizzBuzz/1.0.0": {
       "type": "project",
-      "path": "../BibliotecaDeClase/BibliotecaDeClase.csproj",
-      "msbuildProject": "../BibliotecaDeClase/BibliotecaDeClase.csproj"
+      "path": "../BibliotecaDeClase/FizzBuzz.csproj",
+      "msbuildProject": "../BibliotecaDeClase/FizzBuzz.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BibliotecaDeClase >= 1.0.0",
+      "FizzBuzz >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit3TestAdapter >= 3.15.1",
       "nunit >= 3.12.0"
@@ -4669,8 +4669,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\BibliotecaDeClase\\BibliotecaDeClase.csproj": {
-              "projectPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\BibliotecaDeClase\\BibliotecaDeClase.csproj"
+            "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\BibliotecaDeClase\\FizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\BibliotecaDeClase\\FizzBuzz.csproj"
             }
           }
         }

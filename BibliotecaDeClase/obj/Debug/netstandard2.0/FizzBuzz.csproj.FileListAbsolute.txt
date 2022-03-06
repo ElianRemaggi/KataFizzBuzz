@@ -1,0 +1,9 @@
+C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\bin\Debug\netstandard2.0\FizzBuzz.deps.json
+C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\bin\Debug\netstandard2.0\FizzBuzz.dll
+C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\bin\Debug\netstandard2.0\FizzBuzz.pdb
+C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\FizzBuzz.dll
+C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\FizzBuzz.pdb

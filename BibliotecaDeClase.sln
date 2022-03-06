@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaDeClase", "BibliotecaDeClase\BibliotecaDeClase.csproj", "{04A49720-DE1C-4BA2-856C-279A362F5CF9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "BibliotecaDeClase\FizzBuzz.csproj", "{04A49720-DE1C-4BA2-856C-279A362F5CF9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFizzBuzz", "TestFizzBuzz\TestFizzBuzz.csproj", "{F28AAA03-6F82-4DC9-8540-8B43628A1969}"
 EndProject
