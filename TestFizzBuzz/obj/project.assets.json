@@ -4631,8 +4631,8 @@
     },
     "FizzBuzz/1.0.0": {
       "type": "project",
-      "path": "../BibliotecaDeClase/FizzBuzz.csproj",
-      "msbuildProject": "../BibliotecaDeClase/FizzBuzz.csproj"
+      "path": "../FizzBuzz/FizzBuzz.csproj",
+      "msbuildProject": "../FizzBuzz/FizzBuzz.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\TestFizzBuzz\\TestFizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\TestFizzBuzz\\TestFizzBuzz.csproj",
       "projectName": "TestFizzBuzz",
-      "projectPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\TestFizzBuzz\\TestFizzBuzz.csproj",
+      "projectPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\TestFizzBuzz\\TestFizzBuzz.csproj",
       "packagesPath": "C:\\Users\\Coding\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\TestFizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\TestFizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Coding\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4669,8 +4669,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\BibliotecaDeClase\\FizzBuzz.csproj": {
-              "projectPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\BibliotecaDeClase\\FizzBuzz.csproj"
+            "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj"
             }
           }
         }

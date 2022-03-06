@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RiJ9RRqQ32HEAgJLM1t++8wOj13n7pO+rkXRLQ4ZeatsTcW4qphYG9aeCHegiFdPxeynaJeUl0b8NJnNTK+j4Q==",
+  "dgSpecHash": "JVKufsH7Twv6iIfX2arMvX6LKu44EISC1VF/a4whtAUG/jo8Mc8iBDniDrxzmfDMAqySfj+wLSkZ0smVfgnRWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\BibliotecaDeClase\\TestFizzBuzz\\TestFizzBuzz.csproj",
+  "projectFilePath": "C:\\Users\\Coding\\Documents\\quark\\TDD\\AplicandoTDD\\FizzBuzz\\TestFizzBuzz\\TestFizzBuzz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Coding\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\Coding\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
