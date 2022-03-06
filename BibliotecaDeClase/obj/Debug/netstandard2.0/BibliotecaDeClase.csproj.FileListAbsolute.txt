@@ -1,9 +1,0 @@
-C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\bin\Debug\netstandard2.0\BibliotecaDeClase.deps.json
-C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\bin\Debug\netstandard2.0\BibliotecaDeClase.dll
-C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\bin\Debug\netstandard2.0\BibliotecaDeClase.pdb
-C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\BibliotecaDeClase.csprojAssemblyReference.cache
-C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\BibliotecaDeClase.AssemblyInfoInputs.cache
-C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\BibliotecaDeClase.AssemblyInfo.cs
-C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\BibliotecaDeClase.csproj.CoreCompileInputs.cache
-C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\BibliotecaDeClase.dll
-C:\Users\Coding\Documents\quark\TDD\AplicandoTDD\BibliotecaDeClase\BibliotecaDeClase\obj\Debug\netstandard2.0\BibliotecaDeClase.pdb
