@@ -13,17 +13,52 @@ namespace TestFizzBuzz
         //** 3 - Devuelve FizzBuzz si el número es divisible por 3 y por 5
 
         [Test]
-        [TestCase(9, ExpectedResult = "Fizz")]
+        [TestCase(1, ExpectedResult = "1")]
+        [TestCase(2, ExpectedResult = "2")]
         [TestCase(11, ExpectedResult = "11")]
-
-        public string FizzBuzzCalcularTestFizz(int numero)
+        public string FizzBuzzReturnNumberTest(int numero)
         {
             //Arrange
             FizzBuzz.FizzBuzz fizzBuzz = new FizzBuzz.FizzBuzz();
             string result;
 
             //Act
-            result = fizzBuzz.CalcularNumero(numero);
+            result = fizzBuzz.GetFizzBuzz(numero);
+
+            //Assert
+            return result;
+        }
+
+        [Test]
+        [TestCase(-1, ExpectedResult = "-1")]
+        [TestCase(-13, ExpectedResult = "-13")]
+        [TestCase(-17, ExpectedResult = "-17")]
+
+        public string FizzBuzzReturnNegativeNumberTest(int numero)
+        {
+            //Arrange
+            FizzBuzz.FizzBuzz fizzBuzz = new FizzBuzz.FizzBuzz();
+            string result;
+
+            //Act
+            result = fizzBuzz.GetFizzBuzz(numero);
+
+            //Assert
+            return result;
+        }
+
+        [Test]
+        [TestCase(9, ExpectedResult = "Fizz")]
+        [TestCase(6, ExpectedResult = "Fizz")]
+        [TestCase(18, ExpectedResult = "Fizz")]
+        public string FizzBuzzTestGetFizz(int numero)
+        {
+            //Arrange
+            FizzBuzz.FizzBuzz fizzBuzz = new FizzBuzz.FizzBuzz();
+            string result;
+
+            //Act
+            result = fizzBuzz.GetFizzBuzz(numero);
 
             //Assert
             return result;
@@ -31,16 +66,16 @@ namespace TestFizzBuzz
 
         [Test]
         [TestCase(50, ExpectedResult = "Buzz")]
-        [TestCase(2, ExpectedResult = "2")]
-
-        public string FizzBuzzCalcularTestBuzz(int numero)
+        [TestCase(20, ExpectedResult = "Buzz")]
+        [TestCase(100, ExpectedResult = "Buzz")]
+        public string FizzBuzzTestGetBuzz(int numero)
         {
             //Arrange
             FizzBuzz.FizzBuzz fizzBuzz = new FizzBuzz.FizzBuzz();
             string result;
 
             //Act
-            result = fizzBuzz.CalcularNumero(numero);
+            result = fizzBuzz.GetFizzBuzz(numero);
 
             //Assert
             return result;
@@ -50,23 +85,56 @@ namespace TestFizzBuzz
         [TestCase(60, ExpectedResult = "FizzBuzz")]
         [TestCase(15, ExpectedResult = "FizzBuzz")]
         [TestCase(90, ExpectedResult = "FizzBuzz")]
-        [TestCase(2, ExpectedResult = "2")]
 
-        public string FizzBuzzCalcularTestFizzBuzz(int numero)
+        public string FizzBuzzTestGetFizzBuzz(int numero)
         {
             //Arrange
             FizzBuzz.FizzBuzz fizzBuzz = new FizzBuzz.FizzBuzz();
             string result;
 
             //Act
-            result = fizzBuzz.CalcularNumero(numero);
+            result = fizzBuzz.GetFizzBuzz(numero);
+
+            //Assert
+            return result;
+        }
+
+
+        [Test]
+        [TestCase(-50, ExpectedResult = "Buzz")]
+        [TestCase(-9, ExpectedResult = "Fizz")]
+        [TestCase(-60, ExpectedResult = "FizzBuzz")]
+
+        public string FizzBuzzTestNegativeNumbers(int numero)
+        {
+            //Arrange
+            FizzBuzz.FizzBuzz fizzBuzz = new FizzBuzz.FizzBuzz();
+            string result;
+
+            //Act
+            result = fizzBuzz.GetFizzBuzz(numero);
 
             //Assert
             return result;
         }
 
         [Test]
-        public void FizzBuzzTestValidarLista()
+        [TestCase(0, ExpectedResult = "FizzBuzz")]
+        public string FizzBuzzTestZeroTest(int numero)
+        {
+            //Arrange
+            FizzBuzz.FizzBuzz fizzBuzz = new FizzBuzz.FizzBuzz();
+            string result;
+
+            //Act
+            result = fizzBuzz.GetFizzBuzz(numero);
+
+            //Assert
+            return result;
+        }
+
+        [Test]
+        public void FizzBuzzTestValidateList()
         {
             //Arrange
             FizzBuzz.FizzBuzz fizzbuzz = new FizzBuzz.FizzBuzz();
@@ -75,7 +143,7 @@ namespace TestFizzBuzz
             //Assert
             foreach (var item in dic)
             {
-                Assert.AreEqual(item.Value,fizzbuzz.CalcularNumero(item.Key));
+                Assert.AreEqual(item.Value,fizzbuzz.GetFizzBuzz(item.Key));
             }            
         }
 
@@ -113,12 +181,12 @@ namespace TestFizzBuzz
 
         [Test]
         [TestCaseSource(nameof(testCaseSource))]
-        public void FizzBuzzTestValidarListaAlt(int num, string numS)
+        public void FizzBuzzTestValidateListAlternative(int num, string numS)
         {
             //Arrange
             FizzBuzz.FizzBuzz fizzbuzz = new FizzBuzz.FizzBuzz();
             //Act
-            string result = fizzbuzz.GenerarLista()[num - 1];
+            string result = fizzbuzz.GenerateNumberRange()[num - 1];
             //Assert
             Assert.AreEqual(numS, result);
         }

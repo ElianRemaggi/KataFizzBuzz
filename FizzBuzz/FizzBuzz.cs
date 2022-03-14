@@ -6,27 +6,27 @@ namespace FizzBuzz
 {
     public class FizzBuzz
     {
-        public string CalcularNumero(int numero)
+        public string GetFizzBuzz(int input)
         {
-            return (numero % 3 == 0 && numero % 5 == 0) ? "FizzBuzz" : 
-                   (numero % 5 == 0) ? "Buzz" :
-                   (numero % 3 == 0) ? "Fizz" : 
-                    numero.ToString();
+            return (input % 3 == 0 && input % 5 == 0) ? "FizzBuzz" :
+                   (input % 5 == 0) ? "Buzz" :
+                   (input % 3 == 0) ? "Fizz" :
+                    input.ToString();
         }
 
-        public List<string> GenerarLista()
+        public List<string> GenerateNumberRange()
         {
-            List<int> numeros = new List<int>();
-            List<string> numerosString = new List<string>();
+            List<int> numbers = new List<int>();
+            List<string> stringNumbers = new List<string>();
 
-            numeros.AddRange(Enumerable.Range(1, 20).ToList());
+            numbers.AddRange(Enumerable.Range(1, 20).ToList());
 
-            foreach (int numero in numeros)
+            foreach (int number in numbers)
             {
-                numerosString.Add(CalcularNumero(numero));
+                stringNumbers.Add(GetFizzBuzz(number));
             }
 
-            return numerosString;
+            return stringNumbers;
         }
     }
 }
